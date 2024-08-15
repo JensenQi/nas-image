@@ -23,4 +23,5 @@
 # --platform=linux/amd64 vinlic/deepseek-free-api:0.0.6
 # --platform=linux/amd64 cloudflare/cloudflared:2024.6.1
 # --platform=linux/amd64 linuxserver/qbittorrent:4.6.5
---platform=linux/amd64 cnk3x/xunlei:3.20.1
+# --platform=linux/amd64 cnk3x/xunlei:3.20.1
+budtmo/docker-android:emulator_12.0_v2.11.2-p0
