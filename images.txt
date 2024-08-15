@@ -22,4 +22,5 @@
 # --platform=linux/amd64 vinlic/hailuo-free-api:0.0.15
 # --platform=linux/amd64 vinlic/deepseek-free-api:0.0.6
 # --platform=linux/amd64 cloudflare/cloudflared:2024.6.1
---platform=linux/amd64 linuxserver/qbittorrent:4.6.5
+# --platform=linux/amd64 linuxserver/qbittorrent:4.6.5
+--platform=linux/amd64 cnk3x/xunlei:3.20.1
