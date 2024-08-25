@@ -22,10 +22,9 @@
 # --platform=linux/amd64 vinlic/hailuo-free-api:0.0.15
 # --platform=linux/amd64 vinlic/deepseek-free-api:0.0.6
 # --platform=linux/amd64 cloudflare/cloudflared:2024.6.1
-# --platform=linux/amd64 linuxserver/qbittorrent:4.6.5
 # --platform=linux/amd64 cnk3x/xunlei:3.20.1
 # --platform=linux/amd64 linuxserver/grocy:4.2.0
 # --platform=linux/amd64 postgres:14-alpine3.20
 # --platform=linux/amd64 ghcr.io/plankanban/planka:1.21.1
-# --platform=linux/amd64 henrygd/beszel:0.1
---platform=linux/amd64 henrygd/beszel-agent:0.1
+--platform=linux/amd64 linuxserver/wikijs:2.5.303
+
