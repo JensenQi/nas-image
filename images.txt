@@ -5,7 +5,7 @@
 # --platform=linux/amd64 linuxserver/syncthing:1.27.7
 # --platform=linux/amd64 hslr/sun-panel:1.4.0
 # --platform=linux/amd64 b3log/siyuan:v2.11.4
---platform=linux/amd64 b3log/siyuan:v2.9.6
+# --platform=linux/amd64 b3log/siyuan:v2.9.6
 # --platform=linux/amd64 deluan/navidrome:0.52.5
 # --platform=linux/amd64 xhongc/music_tag_web:2.1.1
 # --platform=linux/amd64 snowdreamtech/frpc:0.58.1
@@ -29,4 +29,5 @@
 # --platform=linux/amd64 ghcr.io/plankanban/planka:1.21.1
 # --platform=linux/amd64 linuxserver/wikijs:2.5.303
 # --platform=linux/amd64 cloudflare/cloudflared:2024.9.1
+--platform=linux/amd64 meituaninc/cat:3.0.1
 
