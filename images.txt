@@ -31,5 +31,6 @@
 # --platform=linux/amd64 cloudflare/cloudflared:2024.9.1
 # --platform=linux/amd64 meituaninc/cat:3.0.1
 # --platform=linux/amd64 mysql:5.7.37
---platform=linux/amd64 pgvector/pgvector:pg17
+# --platform=linux/amd64 pgvector/pgvector:pg17
+--platform=linux/amd64 linuxserver/bookstack:25.02.2
 
